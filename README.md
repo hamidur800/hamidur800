@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username= hamidur800&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=hamidur800&color=red)
 
 Skills: / BOOTSTRAP / REACT / JS / HTML / CSS
 
@@ -14,7 +14,7 @@ Skills: / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently Learning to [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ hamidur800](https://github.com/ hamidur800)
+- 👨‍💻 All of my projects are available at [https://github.com/hamidur800]
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
