@@ -2,35 +2,31 @@
 
 <h1 align="center">Hi 👋, I'm MD HAMIDUR RAHMAN </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Studant of Hablu Programmer</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username= hamidur800&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
-
-- 🌱 I’m currently learning Golang, Java, C++
+- 🔭 I’m currently Learning to [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ hamidur800](https://github.com/ hamidur800)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **hamidur800t@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://lnk.bio/hamidur800](https://lnk.bio/hamidur800)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com/hamidur.800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://twitter.com/hamidur800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ hamidur800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" hamidur800" height="30" width="40" /></a>
 <a href="https://codepen.io/ hamidur800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=" hamidur800" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
