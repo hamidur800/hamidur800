@@ -12,7 +12,7 @@ Skills: / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently Learning to [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently Learning to [RR Foundation](https://www.facebook.com/groups/1103590641314959)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamidur800]
 
