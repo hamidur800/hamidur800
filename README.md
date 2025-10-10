@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD HAMIDUR RAHMAN </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Studant of Hablu Programmer</h4>
+<h4 align="center">Studant of Programming Hero</h4>
 
 <div align="center">
 
