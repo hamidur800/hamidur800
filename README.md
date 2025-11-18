@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently Learning to Programming Hero https://web.programming-hero.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/hamidur800]
+- 👨‍💻 All of my projects are available at https://github.com/hamidur800
 
 - 📫 How to reach me **hamidur800t@gmail.com**
 
