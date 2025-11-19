@@ -9,8 +9,8 @@
   />
 </h2>
 
-<h2 align="center">MERN Stack Web Developer</h2>
-
+<p align="center">MERN Stack Web Developer</p>
+<br/>
 
 
 <div align="center">
