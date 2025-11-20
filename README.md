@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I'm MD HAMIDUR RAHMAN </h1>
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Hamidur!;MERN+Stack+Web+Developer;Speed+Learner;Welcome+to+my+GitHub+Profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Hamidur!;Full+Stack+Web+Developer;Speed+Learner;Welcome+to+my+GitHub+Profile!" 
     alt="Typing Animation" 
   />
 </h2>
 
-<p align="center">MERN Stack Web Developer</p>
+<p align="center">Full Stack Web Developer</p>
 <br/>
 
 
@@ -24,12 +24,12 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi! I’m **Hamidur**, a passionate **MERN Stack Web Developer**
+- 👋 Hi! I’m **Hamidur**, a passionate **Full Stack Web Developer**
 - 🚀 I love building modern, responsive, and user-friendly web applications
 - 🌱 Currently improving my skills in **Next.js**, **TypeScript**, and **Backend Optimization**
 - 💡 I enjoy solving problems, learning new technologies, and contributing to open-source
 - 🎯 My goal is to become a highly skilled Full-Stack Developer
-- 💬 Feel free to ask me about **React, Tailwind, Node.js, Express, MongoDB**
+- 💬 Feel free to ask me about **React , Node.js, Express, MongoDB**
 - 📫 How to reach me **hamidur800t@gmail.com**
 - ⚡ Fun Fact: I break code so I can fix it better 😎
 
